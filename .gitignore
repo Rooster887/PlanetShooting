@@ -9,6 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Aa]ssets/Plugins
+/[Aa]ssets/ThirdParty
+/[Aa]ssets/ThirdParty/00_DFPlanetShooting/Texture/SBullet.png
+/[Aa]ssets/ThirdParty/00_DFPlanetShooting/Texture/HBullet.png
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
